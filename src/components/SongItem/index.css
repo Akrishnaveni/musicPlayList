@@ -1,0 +1,14 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+.img-text {
+  display: flex;
+  justify-content: space-between;
+}
+.btn {
+  color: white;
+  background-color: transparent;
+  border: none;
+}
